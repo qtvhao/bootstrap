@@ -116,7 +116,7 @@ toc: true
 
 - [#31280](https://github.com/twbs/bootstrap/pull/31280): Added new [position utilities]({{< docsref "/utilities/position#arrange-elements" >}}) for `top`, `right`, `bottom`, and `left`. Values include `0`, `50%`, and `100%` for each property.
   - We also added new `translate` utilities to accompany those position utilities for centering elements when they're being positioned.
-  - Some creat examples have been added to the docs to show these off.
+  - Some great examples have been added to the docs to show these off.
 - [#31484](https://github.com/twbs/bootstrap/pull/31484): Added new [`border-width` utility]({{< docsref "/utilities/borders#border-width" >}}).
 - [#31473](https://github.com/twbs/bootstrap/pull/31473): The `.d-none` utility was moved in our CSS to give it more weight over other display utilities.
 
