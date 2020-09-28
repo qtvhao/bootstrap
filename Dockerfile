@@ -16,4 +16,4 @@ RUN npm install
 COPY . .
 
 EXPOSE 8080
-CMD [ "npm", "run docs-serve" ]
+CMD [ "npm", "run" ]
