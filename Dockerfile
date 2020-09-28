@@ -13,6 +13,7 @@ RUN npm install
 # RUN npm ci --only=production
 
 # Bundle app source
+COPY server.js .
 COPY . ./static/
 
 EXPOSE 8080
